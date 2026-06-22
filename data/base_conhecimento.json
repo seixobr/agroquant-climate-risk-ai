@@ -1,0 +1,26 @@
+{
+  "regioes_monitoradas": [
+    {
+      "nome": "MATOPIBA",
+      "cultura_principal": "Soja",
+      "dados_climaticos_atuais": {
+        "precipitacao_acumulada_30d": "45 mm",
+        "media_historica_30d": "120 mm",
+        "temperatura_media": "34°C",
+        "anomalia": "Seca severa (El Niño)"
+      },
+      "impacto_estimado": "Risco Alto. Estresse hídrico na fase de enchimento de grãos. Projeção de quebra de safra de 15% a 20%."
+    },
+    {
+      "nome": "Sul (Paraná/RS)",
+      "cultura_principal": "Milho",
+      "dados_climaticos_atuais": {
+        "precipitacao_acumulada_30d": "250 mm",
+        "media_historica_30d": "100 mm",
+        "temperatura_media": "22°C",
+        "anomalia": "Excesso de chuvas"
+      },
+      "impacto_estimado": "Risco Moderado. Atraso no plantio e risco de fungos devido à alta umidade."
+    }
+  ]
+}
