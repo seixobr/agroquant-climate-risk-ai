@@ -144,4 +144,6 @@ O sistema não possui integração com provedores externos de dados meteorológi
 
 ## 📚 Contexto
 
-Projeto desenvolvido como parte do Lab **"Construa Seu Assistente Virtual Com Inteligência Artificial"** da DIO, com foco na aplicação de IA Generativa em problemas de domínio específico.
+Projeto desenvolvido como parte do Lab "Construa Seu Assistente Virtual com Inteligência Artificial", integrante do bootcamp **Accenture - Python para Análise e Automação de Dados**, promovido pela DIO.
+
+O projeto tem foco na aplicação de IA Generativa em problemas de domínio específico, com ênfase em análise de dados e automação com Python.
